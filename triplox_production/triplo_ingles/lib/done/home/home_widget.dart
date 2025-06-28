@@ -29,7 +29,7 @@ export 'home_model.dart';
 class HomeWidget extends StatefulWidget {
   const HomeWidget({super.key});
 
-  static String routeName = 'Home';
+  static String routeName = 'home';
   static String routePath = '/home2';
 
   @override

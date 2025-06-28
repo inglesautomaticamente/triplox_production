@@ -20,7 +20,7 @@ class CadastroProfessorWidget extends StatefulWidget {
   });
 
   final String? access;
-
+  
   static String routeName = 'CadastroProfessor';
   static String routePath = '/cadastroProfessorAcessoRestrito';
 
