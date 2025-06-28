@@ -1,0 +1,108 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "aulas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "professor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "cancelar",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "verificada",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "finalizada",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "logs",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "aulas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "professor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_agandado",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "professores",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "show",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "display_name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "aulas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "professor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "verificada",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "cancelar",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "aulas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "aluno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data_agandado",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

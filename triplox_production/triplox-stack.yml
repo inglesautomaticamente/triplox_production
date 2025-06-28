@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  triplox_production:
+    image: pedroscardua/triplox_production:latest
+    deploy:
+      replicas: 2
+      labels:
+        - traefik.enable=true
+        - traefik.http.routers.triplox_production.rule=Host(`app.inglesautomaticamente.com.br`)
+        - traefik.http.routers.triplox_production.entrypoints=websecure
+        - traefik.http.services.triplox_production.loadbalancer.sticky=true
+        - traefik.http.routers.triplox_production.tls.certresolver=letsencryptresolver
+        - traefik.http.services.triplox_production.loadbalancer.server.port=443
+        - traefik.http.services.triplox_production.loadbalancer.passHostHeader=true
+    networks:
+      - network_public
+      
+networks:
+  network_public:
+    external: true
