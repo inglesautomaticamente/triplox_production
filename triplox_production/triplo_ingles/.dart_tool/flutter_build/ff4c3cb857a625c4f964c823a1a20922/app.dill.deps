@@ -1972,18 +1972,12 @@ file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_producti
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/backend/schema/util/firestore_util.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/backend/schema/util/schema_util.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/backend/schema/versions_record.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/alterar_saldo_model.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/alterar_saldo_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/aulasaluno_for_professor_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/aulasaluno_for_professor_widget.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/aulasaluno_model.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/aulasaluno_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/cadastro_professor_o_k_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/cadastro_professor_o_k_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/drops_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/drops_widget.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/historico_saldo_model.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/historico_saldo_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/menu_admin_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/menu_admin_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/components/menu_desktop_model.dart
@@ -2027,7 +2021,6 @@ file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_producti
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/link_para_aluno/link_para_aluno_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/lista_logs/lista_logs_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/lista_logs/lista_logs_widget.dart
-file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/lista_usuarios/lista_usuarios_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/lista_usuarios/lista_usuarios_widget.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/login/login_model.dart
 file:///J:/Plataforma%20Aulas%20Particulares/triplox_production/triplox_production/triplo_ingles/lib/done/login/login_widget.dart
